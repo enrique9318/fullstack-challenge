@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "graphql": "^15.6.0"
+  },
+  "name": "fullstack-challenge",
+  "description": "## Youtube Tutorial [YOUTUBE VIDEO](https://www.youtube.com/watch?v=Dr2dDWzThK8)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enrique9318/fullstack-challenge.git"
+  },
+  "author": "Enrique Hernaez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enrique9318/fullstack-challenge/issues"
+  },
+  "homepage": "https://github.com/enrique9318/fullstack-challenge#readme"
+}
